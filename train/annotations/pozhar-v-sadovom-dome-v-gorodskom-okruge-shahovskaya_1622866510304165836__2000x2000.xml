@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pozhar-v-sadovom-dome-v-gorodskom-okruge-shahovskaya_1622866510304165836__2000x2000.jpg</filename>
+	<path>C:\Users\Lebed\OneDrive\Рабочий стол\fire\train\images\pozhar-v-sadovom-dome-v-gorodskom-okruge-shahovskaya_1622866510304165836__2000x2000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>11</ymin>
+			<xmax>856</xmax>
+			<ymax>1243</ymax>
+		</bndbox>
+	</object>
+</annotation>

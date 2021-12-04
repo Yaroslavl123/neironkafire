@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CuS5RWZWEAAPKf3.jpg large.jpg</filename>
+	<path>C:\Users\Lebed\OneDrive\Рабочий стол\fire\train\images\CuS5RWZWEAAPKf3.jpg large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>224</ymin>
+			<xmax>1309</xmax>
+			<ymax>967</ymax>
+		</bndbox>
+	</object>
+</annotation>

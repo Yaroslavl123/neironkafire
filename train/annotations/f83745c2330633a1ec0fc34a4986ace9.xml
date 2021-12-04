@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>f83745c2330633a1ec0fc34a4986ace9.jpg</filename>
+	<path>C:\Users\Lebed\OneDrive\Рабочий стол\fire\train\images\f83745c2330633a1ec0fc34a4986ace9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>641</xmin>
+			<ymin>34</ymin>
+			<xmax>1105</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

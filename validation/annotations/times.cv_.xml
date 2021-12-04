@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>times.cv_.ua_.jpg</filename>
+	<path>C:\Users\Lebed\OneDrive\Рабочий стол\fire\validation\images\times.cv_.ua_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>23</ymin>
+			<xmax>2428</xmax>
+			<ymax>1829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>899</ymin>
+			<xmax>549</xmax>
+			<ymax>1811</ymax>
+		</bndbox>
+	</object>
+</annotation>

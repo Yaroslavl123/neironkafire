@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1601882265_pozhar-2-8.jpg</filename>
+	<path>C:\Users\Lebed\OneDrive\Рабочий стол\fire\train\images\1601882265_pozhar-2-8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>201</ymin>
+			<xmax>754</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+</annotation>
